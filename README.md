@@ -1,5 +1,8 @@
+#满穗skill（Mansui skill)
+
+
+
 <div align="center">
-# 满穗-skill
 基于 character skill producer 产生的满穗人物skill蒸馏个人AI人格模拟skill文档
 
 仅用于个人学习创作没有侵权的意思（哭）
