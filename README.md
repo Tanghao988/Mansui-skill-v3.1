@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-https://github.com/Tanghao988/Mansui-skill-3.1
+https://github.com/Tanghao988/Mansui-skill-v3.1
 
 
 ### *"用小龙虾（claw）框架聊天已不在少数，为适配微信、QQ 聊天 结合此框架，让你可以随时随地利用此人设与满穗聊天，同时可以最大节省 Token 的 Mansui-skill-3.1!"*
